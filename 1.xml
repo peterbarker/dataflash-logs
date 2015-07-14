@@ -1,0 +1,11 @@
+<xml>
+  <filename>1.BIN</filename>
+  <md5sum>81e98301cebd499ff8f784d407457ce4</md5sum>
+  <imu-rate>100</imu-rate>
+  <source>
+    <vehicle>peter-quad</vehicle>
+  </source>
+  <notes>
+    <note>A random note, something interesting about the flight</note>
+  </notes>
+</xml>

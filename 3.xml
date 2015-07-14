@@ -1,0 +1,12 @@
+<xml>
+  <filename>3.BIN</filename>
+  <md5sum></md5sum>
+  <imu-rate>100</imu-rate>
+  <source>
+    <vehicle>svenskasvenson-X-Quad</vehicle>
+  </source>
+  <notes>
+    <note>Original filename: 66.BIN</note>
+    <note>Physical hardware failure (dry solder joint) with motor right-rear (motor 4)</note>
+  </notes>
+</xml>

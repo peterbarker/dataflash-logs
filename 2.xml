@@ -1,0 +1,11 @@
+<xml>
+  <filename>2.BIN</filename>
+  <md5sum>aa0e927cacde76bce5b0f689af5dcf6a</md5sum>
+  <imu-rate>100</imu-rate>
+  <source>
+    <vehicle>paul-bushmaster</vehicle>
+  </source>
+  <notes>
+    <note>Original filename: bushmaster-ekf-fail-partial.bin</note>
+  </notes>
+</xml>
