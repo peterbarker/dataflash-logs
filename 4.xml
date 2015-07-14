@@ -1,0 +1,12 @@
+<xml>
+  <filename>4.BIN</filename>
+  <md5sum></md5sum>
+  <imu-rate>100</imu-rate>
+  <source>
+    <vehicle>A Tractor</vehicle>
+  </source>
+  <notes>
+    <note>Original filename: 153.BIN</note>
+    <note>No GPS messages - just GPS2 messages</note>
+  </notes>
+</xml>
