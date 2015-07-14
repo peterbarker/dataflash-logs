@@ -1,0 +1,12 @@
+<xml>
+  <filename>6.BIN</filename>
+  <md5sum></md5sum>
+  <imu-rate>100</imu-rate>
+  <source>
+    <vehicle></vehicle>
+  </source>
+  <notes>
+    <note>Original filename: 64-bit-timestamps.BIN</note>
+    <note>Includes 64-bit timestamps</note>
+  </notes>
+</xml>
