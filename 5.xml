@@ -1,0 +1,12 @@
+<xml>
+  <filename>5.BIN</filename>
+  <md5sum></md5sum>
+  <imu-rate>100</imu-rate>
+  <source>
+    <vehicle>Replay</vehicle>
+  </source>
+  <notes>
+    <note>Original filename: all-log-types.BIN</note>
+    <note>Includes TYP1 and TYP2 messages which should include all field types currently emitted by ArduPilot</note>
+  </notes>
+</xml>
